@@ -1,10 +1,11 @@
 # Zomato_data_analysis
-* Problem Statement:
-  The goal of this project is to analyze the Zomato restaurant data to understand what factors contribute to higher restaurant ratings. Specifically, we aim to 
-  identify how elements like restaurant reviews, cost, and votes impact the overall user satisfaction and ratings. This analysis will provide valuable insights 
-  that can guide restaurant owners, consumers, and platforms like Zomato to make informed decisions.
 
-* Objectives:
+# Problem Statement:
+  The goal of this project is to analyze the Zomato restaurant data to understand what factors contribute to higher restaurant ratings. Specifically, we aim to 
+  identify how restaurant reviews, costs, and votes impact overall user satisfaction and ratings. This analysis will provide valuable insights that can guide 
+  restaurant owners, consumers, and platforms like Zomato to make informed decisions.
+
+# Objectives:
 1. Data Collection and Details:
    Like - Cuisine types, Average cost for two people, Rating, etc.
 2. Data Cleaning & Preprocessing:
@@ -15,7 +16,7 @@
    Rating Distribution by mode: Which mode has the highest average rating online or offline?
    Restaurant Type: How do casual dining, fine dining, etc., compare in terms of ratings and votes?
 
-* Outcome:
+# Outcome:
   By conducting this analysis, we aim to provide actionable insights that can benefit:
   Restaurant Owners: To understand what factors drive better customer ratings and how they can improve their offerings.
   Zomato/Other Platforms: To identify the most successful markets, popular cuisines, and areas for potential business growth.
